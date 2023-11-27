@@ -5,6 +5,7 @@
 Water Pollution Awareness Website
 
 SnapShots of the website......
+
 1st page
 ![image](https://github.com/SAYOUNCDR/Water_Pollution_Awareness_Website/assets/86598690/394bb633-a085-4dd1-80b2-2d550056d20c)
 
@@ -19,23 +20,23 @@ SnapShots of the website......
 
 
 
-About
+About:  
 This website was created as a college assignment to spread awareness about the critical issue of water pollution. It aims to inform visitors about the causes, effects, and potential solutions to combat water pollution globally.
 
 
 
-Features
+Features :  
 Informative Content: Sections highlighting different aspects of water pollution.
 Interactive Visuals: Infographics and visuals illustrating statistics and impacts.
 Resources: Links to further reading and organizations working on water conservation.
 
 
 
-How to Use
-Just go through the link and wallah you will be into the website (.....).
+How to Use : 
+Just go through the link and wallah you will be into the website (https://sayouncdr.github.io/Water_Pollution_Awareness_Website/).
 
 
 
-Contributing
+Contributing :  
 Free free to further add something new and innovative into the website.
 
